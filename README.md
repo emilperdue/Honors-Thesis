@@ -1,2 +1,1 @@
-# caam-honors-thesis
-Mathematics of Leveraged ETFs, Beta Decay, and  Long-Term Investment Viability
+# Mathematics of Leveraged ETFs, Beta Decay, and  Long-Term Investment Viability
